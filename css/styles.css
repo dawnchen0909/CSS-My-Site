@@ -1,3 +1,7 @@
+body {
+    background-color: #161635;
+}
+
 .top-container{
     color: white;
     /* text-align: center; */
@@ -7,8 +11,4 @@
     width: 200px;
     padding-left: 50px;
     font-family: sans-serif;
-}
-
-body {
-    background-color: #161635;
 }
